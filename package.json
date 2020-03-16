@@ -1,0 +1,14 @@
+{
+  "name": "com.bss.singleton",
+  "version": "1.0.0",
+  "displayName": "BSS Singleton",
+  "description": "'",
+  "unity": "2018.1",
+  "git": "https://github.com/bss1284/singleton-unity-lib",
+  "author": {
+    "name": "Sanghun Lee",
+    "email": "tkdgns1284@gmail.com",
+    "git":"https://github.com/bss1284"
+  },
+  "dependencies": {}
+}
